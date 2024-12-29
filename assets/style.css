@@ -1,0 +1,20 @@
+body{
+    background-image: url("bg.jpeg");
+}
+
+main {
+    min-height: 85vh;
+    padding-top: 90px !important;
+    padding-bottom: 20px !important;
+}
+.bg-color {
+    background: #D9DDDC !important;
+}
+
+.cardBg{
+    background-image: url("cardBg.jpeg");
+}
+
+.font-style {
+    font-family: 'Roboto Mono', monospace !important;
+}
